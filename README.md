@@ -56,7 +56,8 @@ edge://extensions/
 
 ## 🖼️ Capturas de Tela
 
-> *(adicione aqui prints mostrando as diferentes conversões em funcionamento)*  
+<img width="356" height="588" alt="image" src="https://github.com/user-attachments/assets/e8401a90-e0cc-4de8-a8ef-2a3a524780b4" />
+
 
 ## 🔧 Tecnologias
 
